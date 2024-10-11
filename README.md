@@ -17,7 +17,7 @@ This project is a simple QR code generator built using HTML, CSS, and JavaScript
 
 1. Clone this repository to your local machine.
    ```bash
-   
+   https://github.com/thelaughingfellow/QR-code-Generator.git
 2. Open the `index.html` file in your web browser.
 
 
